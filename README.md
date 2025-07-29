@@ -7,6 +7,9 @@ The Sims 4 Anti-Crash system for automatic runtime detection and thermal throttl
 - Navigate to the `Compatibility` tab
 - Check `Run this program as an administrator`
 - Click `OK`
+- This should complete the install process
+
+**NOTE: Some Antivirus software(s)/Windows Defender may flag the executable as malware, if this is the case, mark it as afe through your specific anti-viruses control panel, or, failing that, run the unwrapped `Sims Anti-Crash.bat` file instead (as an administrator)**
 
 # Usage
 - Run Sims Anti-Crash **before** launching The Sims 4
